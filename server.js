@@ -5,6 +5,7 @@
 var app = require('./app');
 var debug = require('debug')('app-express:server');
 var http = require('http');
+var socket = require('./socket');
 
 /**
  * Get port from environment and store in Express.
@@ -18,6 +19,11 @@ app.set('port', port);
  */
 
 var server = http.createServer(app);
+
+/**
+ * Listen WebSocket
+ */
+socket(server);
 
 /**
  * Listen on provided port, on all network interfaces.

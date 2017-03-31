@@ -1,7 +1,0 @@
-{"level":"info","message":"::1 - - [28/Mar/2017:13:24:15 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2017-03-28T13:24:15.902Z"}
-{"level":"info","message":"Cluster 7720 conectado","timestamp":"2017-03-28T14:00:15.011Z"}
-{"level":"info","message":"Cluster 2844 conectado","timestamp":"2017-03-28T14:00:15.245Z"}
-{"level":"info","message":"Cluster 4788 conectado","timestamp":"2017-03-28T14:00:15.370Z"}
-{"level":"info","message":"Cluster 5824 conectado","timestamp":"2017-03-28T14:00:15.479Z"}
-{"level":"info","message":"::1 - - [28/Mar/2017:14:00:23 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2017-03-28T14:00:23.725Z"}
-{"level":"info","message":"::1 - - [28/Mar/2017:14:00:26 +0000] \"GET /admin HTTP/1.1\" 304 -\n","timestamp":"2017-03-28T14:00:26.648Z"}
